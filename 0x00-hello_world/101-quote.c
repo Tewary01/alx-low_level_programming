@@ -1,4 +1,4 @@
-#include <stdio.h>
+{#include <stdio.h>
 /**
  * main - prints to string
  *
@@ -21,4 +21,4 @@ int main(void)
 			"S" (s),
 			"d" (1));
 	return (1);
-}
+}}
